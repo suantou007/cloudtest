@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Test Dashboard",
+  "description": "A high-fidelity replica of a cloud testing service dashboard featuring performance metrics, filters, and data tables.",
+  "requestFramePermissions": []
+}
